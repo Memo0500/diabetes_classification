@@ -57,13 +57,6 @@ common and well known algorithms, namely, `GridSearchCV`.
 <br/>
 <br/>
 
-<img src="3.png">
-<br/>
-<br/>
-
-<img src="4.png">
-<br/>
-<br/>
 
 
 Model(s) Accuracies:
